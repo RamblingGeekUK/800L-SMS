@@ -18,3 +18,6 @@ https://ee.co.uk/help/mobile/manage-use/pay-as-you-go/pay-as-you-go-credit-run-o
 
 
 OG Code found here : https://forum.arduino.cc/t/can-somebody-help-me-to-how-read-the-received-sms-on-esp32-ttgo-t-call-using-arduino-ide/1157804/12
+
+*  SIM800 AT Command Manual
+https://cdn-shop.adafruit.com/product-files/2637/SIM800+Series_AT+Command+Manual_V1.09.pdf
