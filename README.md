@@ -15,3 +15,6 @@ Things that could help.
 
 ![image](https://github.com/RamblingGeekUK/800L-SMS/assets/7108949/1c8bd80e-4c1c-4fce-8b74-b0ec55451f04)
 https://ee.co.uk/help/mobile/manage-use/pay-as-you-go/pay-as-you-go-credit-run-out-when-i-havent-made-calls#:~:text=If%20you%20haven%27t%20used,any%20credit%20will%20be%20removed
+
+
+OG Code found here : https://forum.arduino.cc/t/can-somebody-help-me-to-how-read-the-received-sms-on-esp32-ttgo-t-call-using-arduino-ide/1157804/12
